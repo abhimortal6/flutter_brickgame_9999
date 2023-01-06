@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_brickgame_9999/constants/value_constants.dart';
+import 'package:flutter_brickgame_9999/controllers/dot_matrix_controller.dart';
 import 'package:flutter_brickgame_9999/widgets/brick_widget.dart';
-import 'package:flutter_brickgame_9999/widgets/dot_matrix_controller.dart';
 
 class DotMatrixDisplay extends StatefulWidget {
   const DotMatrixDisplay({required this.controller, Key? key})

@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_brickgame_9999/constants/characters_constants.dart';
+import 'package:flutter_brickgame_9999/controllers/dot_matrix_controller.dart';
 import 'package:flutter_brickgame_9999/models/display_character.dart';
 import 'package:flutter_brickgame_9999/widgets/button_widget.dart';
-import 'package:flutter_brickgame_9999/widgets/dot_matrix_controller.dart';
 import 'package:flutter_brickgame_9999/widgets/dot_matrix_display.dart';
 
 class GameScreen extends StatefulWidget {
